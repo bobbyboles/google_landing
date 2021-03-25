@@ -1,5 +1,7 @@
 html {
     min-height: 100%;
+    cursor:initial;
+
 }
 footer {
 
@@ -88,3 +90,6 @@ footer {
 .google-left-footer:hover {
     text-decoration: underline;
 }
+
+input:hover {
+    box-shadow: .5px .5px 3px .1px rgba(0, 0, 0, 0.4)}
