@@ -87,11 +87,18 @@ footer {
     padding-left: 15px;
 }
 
-
 .google-left-footer:hover {
         text-decoration: underline;
 }
 
 input:hover {
     box-shadow: .5px .5px 3px .1px rgba(0, 0, 0, 0.4)
+}
+
+#submit {
+    width: 125px;
+    height: 40px;
+    background-color: #F5F5F5;
+    border: .5px transparent;
+    border-radius: 5px;
 }
