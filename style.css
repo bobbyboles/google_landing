@@ -2,7 +2,7 @@
 .google-logo {
     display: flex;
     justify-content: center;
-    align-self: center;
+    padding-top: 10em; 
 }
 .google-search {
     display: flex;
@@ -17,4 +17,18 @@
 
 #search {
     width: 300px;
+}
+
+.google-header {
+    font-size: 15px;
+    display: inline;
+    padding-right: 30px;
+}
+.google-header:hover {
+    text-decoration: underline;
+}
+
+img {
+    max-width: 27%;
+    max-height: 27%;
 }
