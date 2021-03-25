@@ -1,6 +1,6 @@
 html {
     min-height: 100%;
-
+    font-family: 'Roboto', sans-serif;
 }
 footer {
     position: fixed;
@@ -12,6 +12,7 @@ footer {
     color: black;
     text-align: center;
     padding-top: 15px;
+    opacity: .5;
 }
 .google-logo {
     display: block;
@@ -35,7 +36,7 @@ footer {
 }
 .google-left-header {
     float: left;
-    font-size: 15px;
+    font-size: 13.5px;
     text-decoration: none;
     color: black;
     padding-right: 15px;
@@ -46,7 +47,7 @@ footer {
 }
 .google-right-header {
     float: right;
-    font-size: 15px;
+    font-size: 13.5px;
     text-decoration: none;
     color: black;
     padding-right: 15px;
@@ -88,7 +89,7 @@ footer {
 
 
 .google-left-footer:hover {
-    text-decoration: underline;
+        text-decoration: underline;
 }
 
 input:hover {
