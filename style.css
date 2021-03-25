@@ -16,8 +16,6 @@ footer {
     display: block;
     text-align: center;
     padding-top: 10em; 
-    max-width: 100%;
-    height: auto;
 }
 .google-search {
     display: flex;
@@ -89,14 +87,4 @@ footer {
 
 .google-left-footer:hover {
     text-decoration: underline;
-}
-
-img {
-    width: 27%;
-    height: 27%;
-
-}
-#dots {
-    max-width: 3%;
-    max-height: 3%;
 }
