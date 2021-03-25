@@ -1,0 +1,11 @@
+
+.google-logo {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+.google-search {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
