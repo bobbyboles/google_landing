@@ -9,3 +9,12 @@
     justify-content: center;
     align-self: center;
 }
+.google-search-bar {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+#search {
+    width: 300px;
+}
