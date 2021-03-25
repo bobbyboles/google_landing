@@ -1,10 +1,8 @@
 html {
     min-height: 100%;
-    cursor:initial;
 
 }
 footer {
-
     position: fixed;
     left: 0;
     bottom: 0;
@@ -13,25 +11,28 @@ footer {
     background-color: rgb(245,245,245);
     color: black;
     text-align: center;
-  }
+    padding-top: 15px;
+}
 .google-logo {
     display: block;
     text-align: center;
-    padding-top: 10em; 
+    padding-top: 15em; 
 }
 .google-search {
-    display: flex;
-    justify-content: center;
+    text-align: center;
+
 }   
 .google-search-bar {
     display: flex;
     justify-content: center;
 }
-
 #search {
-    width: 300px;
+    width: 600px;
+    border-radius: 40px;
+    height: 40px;
+    opacity: .3;
+    border: 1.5px solid ;
 }
-
 .google-left-header {
     float: left;
     font-size: 15px;
@@ -40,7 +41,6 @@ footer {
     padding-right: 15px;
     padding-top: 7px;
 }
-
 .google-left-header:hover {
     text-decoration: underline;
 }
@@ -92,4 +92,5 @@ footer {
 }
 
 input:hover {
-    box-shadow: .5px .5px 3px .1px rgba(0, 0, 0, 0.4)}
+    box-shadow: .5px .5px 3px .1px rgba(0, 0, 0, 0.4)
+}
