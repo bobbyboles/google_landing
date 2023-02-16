@@ -9,5 +9,3 @@ awerofi
 ;lkj;lkj;lkj
 
 ;lkj;lkj;lkj
-;lkj;lkj;lkj
-bob's a baby back bitch
